@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Asad Ehsan 👋
 
-<!--
-**asadehsan11/asadehsan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Building RAG systems, AI agents and computer vision apps
 
-Here are some ideas to get you started:
+I build practical AI tools and deploy them with live demos: document Q&A (RAG), SQL and research agents, and YOLOv8 vision apps. I also train and mentor people in AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **AI/ML:** Python, PyTorch, scikit-learn, HuggingFace Transformers
+- **GenAI and agents:** LLM APIs, LangChain, CrewAI, RAG, ChromaDB
+- **Computer vision:** YOLOv8, EfficientNet, OpenCV
+- **Backend and deploy:** FastAPI, Streamlit, Gradio, Docker, SQL
+- **Embedded/IoT:** Raspberry Pi, microcontrollers
+
+## Featured projects
+Coming soon. Projects are being added here one by one, each with a live demo and a 2-minute video.
+
+## Connect
+- LinkedIn:https://www.linkedin.com/in/asadehsan11/
+- Email: m.asadehsan@gmail.com
