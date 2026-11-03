@@ -1,4 +1,4 @@
-# Hi, I'm Asad Ehsan 👋
+# Hi, I'm Asad Ehsan 
 
 AI Engineer | Building RAG systems, AI agents and computer vision apps
 
