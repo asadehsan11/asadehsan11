@@ -12,7 +12,7 @@ I build practical AI tools and deploy them with live demos: document Q&A (RAG), 
 - **Embedded/IoT:** Raspberry Pi, microcontrollers
 
 ## Featured projects
-Coming soon. Projects are being added here one by one, each with a live demo and a 2-minute video.
+- **[PDF Q&A Assistant](https://github.com/asadehsan11/pdf-qa-rag)**: ask questions about your PDFs and get answers with page citations (RAG, ChromaDB, Gemini, Streamlit). [Live demo](https://askmypdf-asad.streamlit.app)
 
 ## Connect
 - LinkedIn:https://www.linkedin.com/in/asadehsan11/
